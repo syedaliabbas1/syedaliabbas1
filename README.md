@@ -80,26 +80,7 @@ Third year Computer Science student at UCL specializing in **production-grade AI
 - **Trajectory Planning:** Designed pick-and-place robotic arm with cubic polynomial motion planning
 - **CNN Denoising:** Built PyTorch-based image denoising pipeline achieving 32dB PSNR
 - **Texture Synthesis:** Implemented Markov Random Field texture generation algorithms
-- **Stack:** Python, C++, PyTorch, Arduino, ROS
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/syedaliabbas1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedaliabbas1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/syedaliabbas1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaliabbas1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/syedaliabbas1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaliabbas1&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-</p>
+- **Stack:** Python, C, PyTorch, Arduino
 
 ---
 
