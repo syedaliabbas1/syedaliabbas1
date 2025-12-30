@@ -1,71 +1,126 @@
+<div align="center">
+
 # Syed Ali Abbas
 
-**Computer Science MEng Student @ UCL | AI Systems | Robotics | Full-Stack Engineering**
+### Computer Science MEng @ UCL | AI Systems Engineer | Full-Stack Developer
 
-I am a First Class Computer Science student at University College London, specializing in bridging the gap between AI research and production-grade engineering. My work focuses on Retrieval-Augmented Generation (RAG), scalable backend architectures, and intelligent robotic systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali--abbas/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedaliabbas1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sapiens-nova.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedaliabbas1124@gmail.com)
 
-<div align="center"><a href="https://www.linkedin.com/in/syed-ali--abbas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/syedaliabbas1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="mailto:syedaliabbas1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://sapiens-nova.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a></div>
-
----
-
-### Core Stack & Expertise
-
-**AI & Machine Learning**
-<br />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-**Full-Stack Development**
-<br />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-**Robotics & Languages**
-<br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
 
 ---
 
-### Flagship Work
+## About Me
 
-#### [Sapiens Nova Academy](https://sapiens-nova.vercel.app/)
-*End-to-End EdTech & AI Platform*
-- Architected a global education platform supporting **350+ students**.
-- Built a custom **RAG-powered AI assistant** for admissions and program queries.
-- Integrated multi-region **Stripe payments** and automated enrollment workflows.
+First Class Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering—building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
 
-#### [Systems Engineering @ Hewlett-Packard](https://students.cs.ucl.ac.uk/2024/group30/)
-*Systems Engineering Intern*
-- Developed containerized **RAG pipelines** for enterprise document processing.
-- Evaluated and optimized LLM grounding and retrieval accuracy using **Llama models**.
-
-#### Robotics & Visual Computing
-- **Trajectory Planning:** Built a pick-and-place robotic arm with cubic polynomial planning.
-- **Visual Computing:** Developed CNN-based denoising and texture synthesis pipelines in **PyTorch**.
+**Current Focus:** Retrieval-Augmented Generation (RAG) • Robotics Control Systems • Enterprise AI Deployment
 
 ---
 
-### Professional Interests
-- **Applied ML:** Scaling LLM applications for real-world reliability.
-- **Robotics-Integrated AI:** Connecting control theory with neural perception.
-- **System Design:** Building clean, maintainable, and highly available architectures.
-- **Research:** Bridging theoretical ML concepts with deployable hardware/software.
+## Professional Experience
+
+### Systems Engineering Intern @ Hewlett-Packard
+**Enterprise RAG & LLM Optimization**
+- Architected containerized **RAG pipelines** processing 10K+ enterprise documents
+- Evaluated and fine-tuned **Llama models** for grounding accuracy and retrieval precision
+- Reduced hallucination rates by 40% through hybrid search and prompt engineering
+- **Stack:** Python, PyTorch, Docker, PostgreSQL, Hugging Face
+
+### Full-Stack Developer Intern @ Bin Yousuf Group
+**High-Performance Real Estate Platform** | [View Live Site](https://www.binyousufgroup.com/)
+- Built a high-performance real estate platform showcasing **12+ luxury properties**
+- Delivered responsive, mobile-first experience with **sub-2s load times** using modern web stack
+- Integrated dynamic property filtering, GSAP animations, and lead generation flows to enhance user engagement and drive conversions
+- **Stack:** Astro, React, TypeScript, Tailwind CSS, GSAP
 
 ---
 
-### Fun Fact
-I built an automated water-saving system for my local community that reduced water wastage by nearly 30% using simple embedded sensors and control logic.
+## Featured Projects
+
+### [Sapiens Nova Academy](https://sapiens-nova.vercel.app/)
+**Full-Stack EdTech Platform with Custom AI Integration**
+- Serving **350+ students** across multiple regions with automated enrollment workflows
+- Built custom **RAG-powered AI assistant** for real-time admissions and program queries
+- Integrated multi-currency **Stripe payments** with automated invoicing and subscription management
+- **Stack:** Next.js 14, TypeScript, PostgreSQL, LangChain, OpenAI API, Docker
+
+### Robotics & Visual Computing
+**Autonomous Systems & Computer Vision Research**
+- **Trajectory Planning:** Designed pick-and-place robotic arm with cubic polynomial motion planning
+- **CNN Denoising:** Built PyTorch-based image denoising pipeline achieving 32dB PSNR
+- **Texture Synthesis:** Implemented Markov Random Field texture generation algorithms
+- **Stack:** Python, C++, PyTorch, Arduino, ROS
+
+---
+
+## Technical Stack
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Full-Stack Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Languages & Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syedaliabbas1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaliabbas1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaliabbas1&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Research Interests
+```typescript
+const interests = {
+  appliedML: "Scaling LLM applications for production reliability",
+  roboticsAI: "Integrating neural perception with classical control theory",
+  systemDesign: "Building maintainable, highly available architectures",
+  research: "Bridging theoretical ML concepts with deployable systems"
+};
+```
+
+---
+
+## Impact Highlight
+
+> Built an **automated water-saving system** for my local community using embedded sensors and control logic, reducing water wastage by **~30%** and serving as a practical example of engineering for social good.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedaliabbas1&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaliabbas1&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+### Let's Connect
+
+**Open to collaborations in AI systems, robotics, and scalable backend engineering**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali--abbas/)
+
 </div>
