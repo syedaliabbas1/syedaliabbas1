@@ -4,20 +4,7 @@
 
 I am a First Class Computer Science student at University College London, specializing in bridging the gap between AI research and production-grade engineering. My work focuses on Retrieval-Augmented Generation (RAG), scalable backend architectures, and intelligent robotic systems.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/syed-ali--abbas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/syedaliabbas1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:syedaliabbas1124@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://sapiens-nova.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<div align="center"><a href="https://www.linkedin.com/in/syed-ali--abbas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://github.com/syedaliabbas1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="mailto:syedaliabbas1124@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://sapiens-nova.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a></div>
 
 ---
 
@@ -42,7 +29,6 @@ I am a First Class Computer Science student at University College London, specia
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 
 ---
 
@@ -54,7 +40,7 @@ I am a First Class Computer Science student at University College London, specia
 - Built a custom **RAG-powered AI assistant** for admissions and program queries.
 - Integrated multi-region **Stripe payments** and automated enrollment workflows.
 
-#### [AI Systems @ Hewlett-Packard](https://hp.com)
+#### [Systems Engineering @ Hewlett-Packard](https://students.cs.ucl.ac.uk/2024/group30/)
 *Systems Engineering Intern*
 - Developed containerized **RAG pipelines** for enterprise document processing.
 - Evaluated and optimized LLM grounding and retrieval accuracy using **Llama models**.
