@@ -15,7 +15,7 @@
 
 ## About Me
 
-Third year Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering—building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
+Third year Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
 
 **Current Focus:** Retrieval-Augmented Generation (RAG) • Robotics Control Systems • Enterprise AI Deployment
 
