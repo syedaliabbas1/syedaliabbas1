@@ -85,14 +85,11 @@ Third year Computer Science student at UCL specializing in **production-grade AI
 ---
 
 ## Research Interests
-```typescript
-const interests = {
-  appliedML: "Scaling LLM applications for production reliability",
-  roboticsAI: "Integrating neural perception with classical control theory",
-  systemDesign: "Building maintainable, highly available architectures",
-  research: "Bridging theoretical ML concepts with deployable systems"
-};
-```
+
+- **Applied ML:** Scaling LLM applications for production reliability
+- **Robotics AI:** Integrating neural perception with classical control theory
+- **System Design:** Building maintainable, highly available architectures
+- **Research:** Bridging theoretical ML concepts with deployable systems
 
 ---
 
