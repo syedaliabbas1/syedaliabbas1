@@ -15,7 +15,7 @@
 
 ## About Me
 
-First Class Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering—building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
+Third year Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering—building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
 
 **Current Focus:** Retrieval-Augmented Generation (RAG) • Robotics Control Systems • Enterprise AI Deployment
 
@@ -87,12 +87,18 @@ First Class Computer Science student at UCL specializing in **production-grade A
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syedaliabbas1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaliabbas1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/syedaliabbas1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedaliabbas1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/syedaliabbas1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedaliabbas1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaliabbas1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/syedaliabbas1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaliabbas1&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
 </p>
 
 ---
