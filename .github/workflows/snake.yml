@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create assets directory
+        run: mkdir -p assets
+
       - uses: czl9707/gh-space-shooter@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
