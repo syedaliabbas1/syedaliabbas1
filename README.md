@@ -17,7 +17,7 @@
 
 Third year Computer Science student at UCL specializing in **production-grade AI systems** and **scalable backend architectures**. I bridge the gap between cutting-edge ML research and real-world engineering building RAG pipelines, intelligent robotics, and high-availability platforms that serve hundreds of users globally.
 
-**Current Focus:** Retrieval-Augmented Generation (RAG) • Robotics Control Systems • Enterprise AI Deployment
+**Current Focus:** Retrieval-Augmented Generation (RAG) · Robotics Control Systems · Enterprise AI Deployment
 
 ---
 
@@ -96,6 +96,16 @@ Third year Computer Science student at UCL specializing in **production-grade AI
 ## Impact Highlight
 
 > Built an **automated water-saving system** for my local community using embedded sensors and control logic, reducing water wastage by **~30%** and serving as a practical example of engineering for social good.
+
+---
+
+## GitHub Contributions
+
+<div align="center">
+
+![Space Shooter Contributions](https://raw.githubusercontent.com/syedaliabbas1/yashksaini-coder/main/assets/yashksaini-coder-space-shooter.gif)
+
+</div>
 
 ---
 
