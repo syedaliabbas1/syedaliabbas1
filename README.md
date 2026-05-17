@@ -103,7 +103,7 @@ Third year Computer Science student at UCL specializing in **production-grade AI
 
 <div align="center">
 
-![Space Shooter Contributions](https://raw.githubusercontent.com/syedaliabbas1/yashksaini-coder/main/assets/yashksaini-coder-space-shooter.gif)
+![Space Shooter Contributions](https://raw.githubusercontent.com/syedaliabbas1/syedaliabbas1/output/space-shooter.gif)
 
 </div>
 
