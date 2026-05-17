@@ -1,8 +1,9 @@
 <div align="center">
 
-# Syed Ali Abbas
-
-### MEng Computer Science @ UCL · AI Systems · Full-Stack · Robotics
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedaliabbas1/syedaliabbas1/master/assets/NameAnimatedDark.svg">
+  <img alt="Syed Ali Abbas" src="https://raw.githubusercontent.com/syedaliabbas1/syedaliabbas1/master/assets/NameAnimatedLight.svg">
+</picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ali--abbas/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syedaliabbas.me/)
